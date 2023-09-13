@@ -40,4 +40,4 @@ Se deben hacer tests que sean "funcionales" y que cubran, al menos, el 75% de la
 
 ## Dudas
 
-Para cualquier duda o pregunta, contacta con el team leader con el que haces las reuniones diarias o, en su defecto, la persona que te hayan asignado como responsable.
+Para cualquier duda o pregunta, contacta con el team leader con el que haces las reuniones diarias o, en su defecto, la persona que te hayan asignado como responsable.# BibliotecaFrontend
